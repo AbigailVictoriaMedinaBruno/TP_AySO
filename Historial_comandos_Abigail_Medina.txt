@@ -1,0 +1,68 @@
+    1  ssh -i
+    2  man ssh
+    3  vagrant ssh
+    4  ssh -h
+    5  ssh -j
+    6  ssh -J
+    7  ssh -H
+    8  ssh -b
+    9  cd repogit/TP_AySO/
+   10  man grap
+   11  man grep
+   12  man "dump traffic"
+   13  mang grep "dump traffic"
+   14  man grep "dump traffic"
+   15  man sort "dump traffic"
+   16  man dump traffic
+   17  man dump
+   18  man man
+   19  man sp-dump
+   20  man sp
+   21  man dump
+   22  man "dump"
+   23  man sort "dump"
+   24  man man
+   25  dump
+   26  cat dump
+   27  cat dump traffic
+   28  /dump traffic
+   29  man man
+   30  man -k "dump traffic"
+   31* man tcpdum
+   32  "tcpdump" > "comando_dump_net.txt"
+   33  echo "El comando es tcpdump" > "comando_dump_net.txt"
+   34  ll
+   35  cat comando_dump_net.txt 
+   36  echo "El comando a ejecutar para buscar 'dump traffic es man -k 'dump traffic' " > "comando_dump_net.txt"
+   37  cat "comando_dump_net.txt" 
+   38  echo "El comando es tcpdump" > "comando_dump_net.txt"
+   39  cat "comando_dump_net.txt" 
+   40  echo "El comando a ejecutar para buscar 'dump traffic es man -k 'dump traffic' " >> "comando_dump_net.txt"
+   41  cat "comando_dump_net.txt" 
+   42  git add .
+   43  git status
+   44  git commit -m “ADD: Comando para Capturar y analizar el tráfico de red ”
+   45  git commit -m 'ADD: Comando para Capturar y analizar el tráfico de red'
+   46  ll 
+   47  echo "Alumno: Abigail Victoria Medina Bruno" >> README.md
+   48  cat README.md 
+   49  echo "# TP_AySO" > README.md
+   50  echo "Alumno: Abigail Victoria Medina Bruno" >> README.md
+   51  cat README.md 
+   52  echo "Division: 313" >> README.md
+   53  echo "Turno: Noche" >> README.md
+   54  cat README.md 
+   55  git add .
+   56  git commit -m "ADD: Agregado de datos del alumno2
+git commit -m "ADD: Agregado de datos del alumno2"
+"
+   57  git commit -m "ADD: Agregado de datos del alumno2
+git commit -m "ADD: Agregado de datos del alumno2"
+
+
+"
+   58  git commit -m "ADD: Agregado de datos del alumno"
+   59  history -a
+   60  cat \$HOME/.bash_history
+   61  cat $HOME/.bash_history
+   62  history > Historial_comandos_Abigail_Medina.txt
