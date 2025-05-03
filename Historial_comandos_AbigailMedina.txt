@@ -1,0 +1,81 @@
+cd repogit/
+git clone git@github.com:AbigailVictoriaMedinaBruno/TP_AySO.git
+git config --global -l
+git confi
+cd
+git config
+git config --global -l
+git config --global
+git config --list
+git config --global user.email "abigailmedinabruno@gmail.com"
+git config --global user.name "AbigailVictoriaMedinaBruno"
+git config --list
+git clone git@github.com:AbigailVictoriaMedinaBruno/TP_AySO.git
+git remote -v
+ssh -T git@github.com
+ssh -T AbigailVictoriaMedinaBruno@github.com
+ls -al ~/.ssh
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_ed25519
+cat ~/.ssh/id_ed25519.pub
+ls -al ~/.ssh
+ssh -T git@github.com
+git clone git@github.com:AbigailVictoriaMedinaBruno/TP_AySO.git
+rm -r TP_AySO/
+pwd
+cd Home
+cd ..
+pwd
+ls
+cd home/
+cd abigail/
+cd repogit/
+git clone git@github.com:AbigailVictoriaMedinaBruno/TP_AySO.git
+pwd
+ls
+ls -l
+cd TP_AySO/
+pwd
+ls -l
+cat /etc/os-release
+grep man
+grep
+grep --help
+grep -i home_url cat /etc/os-release
+cat /etc/os-release | grep -i home_url
+man grep
+grep HOME_URL /etc/os-release
+grep home_url /etc/os-release
+grep -i Home_url /etc/os-release
+whoami
+sudo su
+grep "model name" /proc/cpuinfo | head -n1 >>
+datos_usuarios.txt
+cat datos_usuario.txt
+grep -i "model name" /proc/cpuinfo | head -n1 >>
+grep -i "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt 
+cd
+cd .
+pwd
+cd /home/abigail/repogit/TP_AySO/
+cat datos_usuario.txt 
+git add .
+git status
+git commit -m “feat: Añadiendo información de CPU”
+git commit -m "feat: Añadiendo información de CPU"
+git status
+git push
+cat <<EOF >> README.md
+Alumno: Abigail Medina
+División: 315 Turno: Noche
+EOF
+
+cat README.md 
+git add README.md datos_usuarios.txt
+git add README.md
+git add datos_usuarios.txt
+git add datos_usuario.txt
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git status
+git push
+history -a
